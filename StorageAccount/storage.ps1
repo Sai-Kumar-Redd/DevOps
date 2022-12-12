@@ -4,3 +4,6 @@ New-AzResourceGroupDeployment -ResourceGroupName  $ResourceGroup.ResourceGroupNa
    
 }
  
+
+
+
